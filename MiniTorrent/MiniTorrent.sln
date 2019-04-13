@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniTorrent", "MiniTorrent\MiniTorrent.csproj", "{8DFD8D56-5840-40D7-A113-D54BD8D0ADB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniTorrent.Tests", "MiniTorrent.Tests\MiniTorrent.Tests.csproj", "{954F191B-CCD7-42DE-980C-82747CB1878B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{42A3482F-C9E1-41BA-9CE9-36D2FF8EEFB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniTorrentUserInterface", "MiniTorrentUserInterface\MiniTorrentUserInterface.csproj", "{39F9FDAB-7286-48E8-BA3E-25410A823ECC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DFD8D56-5840-40D7-A113-D54BD8D0ADB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DFD8D56-5840-40D7-A113-D54BD8D0ADB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DFD8D56-5840-40D7-A113-D54BD8D0ADB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DFD8D56-5840-40D7-A113-D54BD8D0ADB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{954F191B-CCD7-42DE-980C-82747CB1878B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{954F191B-CCD7-42DE-980C-82747CB1878B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{954F191B-CCD7-42DE-980C-82747CB1878B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{954F191B-CCD7-42DE-980C-82747CB1878B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39F9FDAB-7286-48E8-BA3E-25410A823ECC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39F9FDAB-7286-48E8-BA3E-25410A823ECC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39F9FDAB-7286-48E8-BA3E-25410A823ECC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39F9FDAB-7286-48E8-BA3E-25410A823ECC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF172426-4604-478D-B5AE-FB463772E768}
+	EndGlobalSection
+EndGlobal
